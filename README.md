@@ -16,13 +16,14 @@
 
 ## 🧠 About Me
 
-I’m **Vamshri** — a Forward Deployed AI Engineer building production-grade AI systems that solve real business problems.
-	•	🔭 Currently building **RAG pipelines, agentic workflows, and AI-powered intelligence systems**
-	•	🌱 Deepening my expertise in LLM architecture, system design, and production ML deployment
-	•	🎯 Goal: Design and deploy AI systems that move from prototype to measurable impact
-	•	💬 Ask me about Python, RAG, Agentic AI, backend systems, or AI observability
-	•	📫 Reach me at: vamshri99@gmail.com
-	•	⚡ Fun fact: I treat AI systems like products — if it doesn’t create measurable impact, it’s just a demo.
+I'm **Vamshri** — an aspiring AI/ML engineer passionate about building systems that learn, reason, and solve real-world problems.
+
+- 🔭 Currently building hands-on **AI/ML projects** to develop production-ready skills
+- 🌱 Deepening my knowledge in **Deep Learning, NLP, and LLM applications**
+- 🎯 Goal: Design and deploy AI systems that create measurable real-world impact
+- 💬 Ask me about **Python, Machine Learning, or Data Analysis**
+- 📫 Reach me at: **vamshri99@gmail.com**
+- ⚡ Fun fact: I treat every project like a product — it has to solve something real.
 
 ---
 
@@ -77,11 +78,11 @@ I’m **Vamshri** — a Forward Deployed AI Engineer building production-grade A
 
 > *"Great models start with great questions."*
 
-I'm currently focused on:
-- 🤖 Experimenting with **classification & regression** problems
-- 📊 Doing **EDA (Exploratory Data Analysis)** on real-world datasets
-- 🧪 Learning best practices for **model evaluation and deployment**
-- 📚 Reading research papers to stay sharp on the latest in AI
+- 🤖 Building and experimenting with **ML models** on real-world datasets
+- 🧪 Exploring **NLP and LLM-based projects** to understand how language models work under the hood
+- 📊 Practising **EDA and feature engineering** to develop strong data intuition
+- 📚 Reading AI research papers and implementing ideas from scratch
+- 🛠️ Focusing on writing **clean, reproducible ML code** that could go into production
 
 ---
 
@@ -89,10 +90,8 @@ I'm currently focused on:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshri16hari)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vamshri99@gmail.com)
 
 </div>
 
