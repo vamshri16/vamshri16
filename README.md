@@ -16,14 +16,13 @@
 
 ## 🧠 About Me
 
-I'm **Vamshri** — an aspiring AI/ML engineer passionate about building systems that learn, reason, and solve real-world problems.
-
-- 🔭 Currently working on **personal AI/ML projects** to sharpen my skills
-- 🌱 Deepening my knowledge in **Deep Learning, NLP, and MLOps**
-- 🎯 Goal: Build impactful AI products and contribute to open source
-- 💬 Ask me about **Python, Machine Learning, or Data Analysis**
-- 📫 Reach me at: **your.email@example.com**
-- ⚡ Fun fact: I believe every dataset has a story worth telling
+I’m **Vamshri** — a Forward Deployed AI Engineer building production-grade AI systems that solve real business problems.
+	•	🔭 Currently building **RAG pipelines, agentic workflows, and AI-powered intelligence systems**
+	•	🌱 Deepening my expertise in LLM architecture, system design, and production ML deployment
+	•	🎯 Goal: Design and deploy AI systems that move from prototype to measurable impact
+	•	💬 Ask me about Python, RAG, Agentic AI, backend systems, or AI observability
+	•	📫 Reach me at: vamshri99@gmail.com
+	•	⚡ Fun fact: I treat AI systems like products — if it doesn’t create measurable impact, it’s just a demo.
 
 ---
 
